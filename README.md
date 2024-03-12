@@ -1,7 +1,7 @@
 <h1>2D Gravity Simulator</h1>
 <h6>OOP ESP - 2nd Semester</h6>
 
-<h4>Breif Intro</h4>
+<h4>Brief Intro</h4>
 <p>By using Newton's Equations and Projectile motion, a set of planets can be created that mimic the solar system with planets revolving around a central planet or a star. The simulation is shown on the screen in where new planets can be added. As the simulation runs, the details of the simulation are added to a database at the backend.</p>
 
 <h3>Technologies:</h3>
